@@ -1,0 +1,28 @@
+div {
+	margin:auto;
+}
+#intro-section{
+	width: 200px;
+
+} 
+
+ul {
+	margin: 14px
+	padding: 10px;
+	background-color: #eff;
+	
+}
+
+h1{
+	font-family: sans-serif;
+	color: green;
+	background-color: #eff;
+}
+
+li {
+	display: inline;
+}
+
+.common_link {
+	text-decoration: none;
+}
